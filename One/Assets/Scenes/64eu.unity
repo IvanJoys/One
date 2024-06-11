@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 599571787}
   - component: {fileID: 599571786}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: 123
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
